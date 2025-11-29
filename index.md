@@ -32,7 +32,7 @@ layout: default
   <div class="project-card">
     <img src="/assets/img/project3.png" alt="Mini RPG Prototype">
     <h3>Cody (2025)</h3>
-    <p>Implemented character progression, inventory system, and combat mechanics.</p>
+    <p>Game created in collaboration with an elementary school for Cremona Code Week. Designed for first graders to introduce logical thinking by guiding a character on a grid using command blocks</p>
     <div class="project-icons">
       <span title="Team Size"><i class="fas fa-users"></i> 1</span>
       <span title="Time"><i class="fas fa-clock"></i> 1 weeks</span>
