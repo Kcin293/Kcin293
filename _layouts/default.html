@@ -1,4 +1,25 @@
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Cayman styles -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+</head>
+<body>
+
+<section class="page-header">
+  <h1 class="project-name">{{ site.title }}</h1>
+  <h2 class="project-tagline">{{ site.description }}</h2>
+</section>
+
+<section class="main-content">
+  {{ content }}
+</section>
+
+</body>
+</html>

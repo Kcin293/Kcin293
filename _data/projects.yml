@@ -1,0 +1,37 @@
+- title: Codino
+  year: 2025
+  image: /assets/img/CODINO TRAILER.png
+  video: /assets/video/Codino TRAILER.mp4
+  team: 1
+  duration: 1 week
+  description: >
+    Codino is a small Educational Prototype developed for an elementary school as part of Cremona Code Week.
+    The project introduces first graders to logical thinking through a grid-based, command-driven movement system, where players place and execute instructions to guide a robot.
+    The focus is on sequential logic, visual programming concepts, and clear player feedback in a safe, educational environment.
+  link: https://kcin293.itch.io/codino
+  github: https://github.com/Kcin293/Cody
+
+
+- title: AntCooking
+  year: 2025
+  image: /assets/img/ANTipasto TRAILER.png
+  video: /assets/video/ANTipasto TRAILER.mp4
+  team: 1
+  duration: 1 week
+  description: >
+    AntCooking is a small Unity Tech Demo developed within a short, game jam–inspired development timeframe.
+    The project focuses on fast iteration and data-driven, modular recipe systems, with time-based order management in a pixel art environment.
+  link: https://kcin293.itch.io/ant-cooking
+  github: https://github.com/Kcin293/AntCooking
+
+- title: Annie's Adventure
+  year: 2025
+  image: /assets/img/Annie's adverture TRAILER.png
+  video: /assets/video/Annie's adverture TRAILER.mp4
+  team: 1
+  duration: 3 weeks
+  description: >
+    Annie's Adventure is a small 2D platformer developed in Unity as a gameplay-focused prototype.
+    The project explores responsive character movement, grappling-based traversal, and modular enemy behaviors, with an emphasis on clean state management and player feedback.
+  link: https://kcin293.itch.io/annie-adventure
+  github: https://github.com/Kcin293/Annie-sAdventure
